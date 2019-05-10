@@ -1,0 +1,133 @@
+
+
+.ranking-footer-btn-default .btn-default{
+   /* display: inline-block;
+   vertical-align: top; */
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   font-weight: 600;
+   height:40px;
+   background-color: white;
+   text-align: center;
+   padding-top:7px;
+   border :  1px solid lightgray;
+   width:100%;
+   border-radius:0; 
+   }
+ 
+   .ranking-footer-btn-default .btn-default:hover{
+     color:#dc3545;
+     background-color: #eff1f4;
+   }
+ 
+
+
+ .video-title{
+    font-family: Open Sans,sans-serif;
+    border-bottom: 2px;  
+    font-size: 14px;
+    font-weight: bold;
+ }
+
+ .video-series-start-end{
+    font-family: Open Sans,sans-serif;
+    border-bottom: 2px;  
+    font-size: 12px;
+    color:gray;
+    font-weight: bold;
+ }
+ 
+  /* Changed from playerImage to player-image ; */
+ .ranking-player-image {
+   width :25px;
+   height:25px;
+   border-radius: 50%;
+   padding:0px;
+   background: transparent;
+
+   /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.ranking-team-flag {
+   width :20px;
+   height:20px;
+   border-radius: 50%;
+   padding:0px;
+      
+   /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.ranking-bowler-title-image {
+  width:25px;
+  height:25px;
+  border-radius: 50%;
+  padding: 0px;
+  /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.mycard {
+   border-radius: 6px; 
+   height:180px;
+   align-content: center;
+   box-shadow: 1px  2px 5px #ccc;
+   border:none;
+}
+
+.ranking-home-ranking-main-title{
+   font-family: Open Sans,sans-serif;
+   font-size: 18px;
+   font-weight : bold;
+}
+
+.ranking-home-ranking-main-title-dynamic{
+   font-family: Open Sans,sans-serif;
+   font-size: 18px;
+   font-weight : bold;
+   color:gray;
+}
+
+.home-ranking-sub-title{
+   font-family: Open Sans,sans-serif;
+   font-size: 14px;
+   color:gray;
+   font-weight : bold;
+}
+
+.home-ranking-player-name{
+   font-family: Open Sans,sans-serif;
+    font-size: 14px;
+}
+
+.player-rating-number{
+   font-family: Open Sans,sans-serif;
+    font-size:20px; 
+    font-weight:normal;
+    color:#6db3ff;
+    padding:0px;
+}
+
+.rank-table td {
+   border:none;
+   padding:4px;
+   padding-left: 10px;
+   vertical-align: middle;
+   font-family: Open Sans,sans-serif;
+   font-size:10px;
+   font-weight: 500;
+ }
+
+ .rank-table th{
+   padding:10px;
+   padding-left: 10px;
+   color:white; 
+   background-color:#E4032E;
+   border:none;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px; 
+   vertical-align: middle;
+   font-family: Open Sans,sans-serif;
+   font-size:10px;
+   font-weight: 600;
+ }
+
+ 

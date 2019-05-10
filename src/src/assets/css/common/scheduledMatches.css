@@ -1,0 +1,157 @@
+/* .cards{
+    display:flex;
+    flex-wrap: wrap;
+    box-shadow: 0 4 8px 0px rgb(0, 0, 0, 0, 0.3);
+    justify-content: space-between; 
+    background-color: white;
+    border-radius: 0;
+}
+
+.card{
+    flex: 0 1 24%;
+} */
+
+.sh-header-text-series {
+   font-family: Open Sans,sans-serif;
+   font-size:16px;
+   font-weight: 600;
+   background-color: white;
+   color: black;
+   padding:4px;
+}
+
+.sh-header-flag-image{
+    width:25x;
+    height:25px;
+    padding:0;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    
+ }
+
+ .sh-header-text-teams-shortname {
+    font-family: sans-serif;
+    font-size:14px;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+    padding-left:4px;
+      
+ }
+ 
+ .sh-header-text-teama-score {
+    font-family: Open Sans,sans-serif;
+    font-size:16px;
+    font-weight: 600;
+    color: gray;
+    margin-top: 2px;
+  }
+
+  .sh-text-between-teams {
+   font-family: Open Sans,sans-serif;
+   font-size:18px;
+   font-weight: 600;
+   color:black;
+   margin-top: 2px;
+   padding-left: 6px;
+ }
+
+  .sh-header-text-match{
+   font-family: Open Sans,sans-serif;
+   font-size: 14px;
+   font-weight:600;
+ }
+ 
+ .sh-header-text-match-status-live{
+   font-family: Open Sans,sans-serif;
+   font-size: 14px;
+   font-weight:600;
+   color:#ee1d23;
+   margin-bottom: 0px;
+ }
+
+  .sh-header-text-match-status-normal{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:gray;
+}
+
+  .sh-match-date{
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   font-weight: 600;
+   text-align: center;
+ }
+
+ .sh-match-time{
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   font-weight:600;
+   text-align: center;
+   text-transform: uppercase;
+ }
+
+  .sh-footer-text-center-match-status{
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   text-align: center;
+   color:black;
+   color:ee1d23;
+ }
+
+  .sh-card-home-center-articles-card{
+       background-color: white;
+       color:gray;
+  }
+
+ .sh-article-home-center-paragraph img { 
+   float: left; 
+   padding: 0 20px 20px 0;
+  }
+
+ /* .media .content .small-text {
+   font-family: Open Sans,sans-serif;
+   font-size: 14px;
+   font-weight: normal;
+   color: gray;
+   padding-top:4px;
+} */
+
+.sh-home-div{
+   border-radius: 0px;
+   background-color: white;
+}
+
+.sh-home-center-videos-title{
+   font-family: Open Sans,sans-serif;
+   font-size: 16px;
+   font-weight: 600; 
+   margin-top: 10px;
+}
+
+.dropdown-button{
+   border-radius: 20px;
+   font-family: Open Sans,sans-serif;
+   font-size: 12px;
+   border: 1px 1px solid gray;  
+   background-color: white;
+   color:black ;
+   width:120px;
+   border-color: gray;
+}
+
+.dropdown-menu{
+  border-radius: 5px;
+  font-family: Open Sans,sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  background-color: white;
+  border-color: gray;
+}
+
+
+.dropdown-button .hover{
+  color:white;
+}
+

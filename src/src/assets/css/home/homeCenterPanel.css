@@ -1,0 +1,129 @@
+
+ .link :focus, :hover, :visited, :link, :active {
+   text-decoration: none;
+   color: black;
+}
+
+.series-footer-btn-default .btn-default{
+  /* display: inline-block;
+  vertical-align: top; */
+  font-family: Helvetica, sans-serif, Arial, Open Sans;;
+  font-size:14px;
+  font-weight: 600;
+  height:40px;
+  background-color: white;
+  text-align: center;
+  padding-top:7px;
+  border :  1px solid lightgray;
+  width:100%;
+  border-radius:0; 
+  }
+
+  .series-footer-btn-default .btn-default:hover{
+    color:#dc3545;
+    background-color: #eff1f4;
+  }
+
+.header-text-series {
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   font-size:16px;
+   font-weight: 600;
+   background-color: white;
+   color: black;
+   padding:4px;
+}
+
+.center-card-flag-image{
+    width:30x;
+    height:30px;
+    margin-top: 4px;  
+    margin-bottom: 4px;
+ }
+
+ .center-card-teams-shortname {
+    font-family: Helvetica, sans-serif, Arial, Open Sans;
+    font-size:14px;
+    font-weight: 600;
+    color: gray;
+    vertical-align: middle;
+    padding-left: 8px;
+ }
+ 
+ .center-card-teams-score {
+    font-family: Helvetica, sans-serif, Arial, Open Sans;
+    font-size:14px;
+    font-weight: 600;
+    color: gray;
+    margin-top: 2px;
+    float :  right; 
+  }
+
+  .center-card-matchtype{
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   font-size: 14px;
+ }
+ 
+ .center-card-match-status-live{
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   font-size: 14px;
+   font-weight: 600;
+   color: #ee1d23;
+   float: right;
+  }
+
+  .center-card-match-status-normal{
+    font-family: Helvetica, sans-serif, Arial, Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    color: Gray;
+    float:right
+  }
+
+  .footer-text-center-match-status{
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   font-size:15px;
+   text-align: center;
+   margin: 0;
+   color: black;
+ }
+
+  .card-home-center-articles-card{
+       background-color: white;
+       color:gray;
+  }
+
+ .article-home-center-paragraph img { 
+   float: left; 
+   padding: 0 20px 20px 0;
+  }
+
+  .card-title{
+    font-family: Helvetica, sans-serif, Arial, Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .home-div{
+   border-radius: 4px;
+   background-color: white;
+}
+
+.home-center-series-article-videos-small-text{
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   width:60%;
+   font-size:14px;
+   font-weight: 600;
+   color: black;
+   float : left;
+ }
+
+ .home-center-series-article-videos-small-date{
+   font-family: Helvetica, sans-serif, Arial, Open Sans;
+   width:60%;
+   font-size:12px;
+   font-weight: 600;
+   color: gray;
+   float : left;
+ }
+
+ 

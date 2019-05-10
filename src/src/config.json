@@ -1,0 +1,4 @@
+{
+    "apiEndPoint" : "http://back.cricwick.net/api",
+    "telco"       : "mobilink"
+}

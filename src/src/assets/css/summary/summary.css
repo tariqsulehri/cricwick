@@ -1,0 +1,218 @@
+ 
+ .video-title{
+    font-family: Open Sans,sans-serif;
+    border-bottom: 2px;  
+    font-size: 14px;
+    font-weight: bold;
+ }
+
+ .video-series-start-end{
+    font-family: Open Sans,sans-serif;
+    border-bottom: 2px;  
+    font-size: 12px;
+    color:gray;
+    font-weight: bold;
+ }
+ 
+ .player-image-summary {
+   width :25px;
+   height:25px;
+   border-radius: 50%;
+   padding:0px;
+   background: transparent;
+
+   /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.team-flag {
+   width :20px;
+   height:20px;
+   border-radius: 50%;
+   padding:0px;
+      
+   /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.bowler-title-image {
+  width:25px;
+  height:25px;
+  border-radius: 50%;
+  padding: 0px;
+  /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.mycard {
+   border-radius: 6px; 
+   height:180px;
+   align-content: center;
+   box-shadow: 1px  2px 5px #ccc;
+   border:none;
+}
+
+.home-ranking-main-title{
+   font-family: Open Sans,sans-serif;
+   font-size: 18px;
+   font-weight : bold;
+}
+
+.home-ranking-main-title-dynamic{
+   font-family: Open Sans,sans-serif;
+   font-size: 18px;
+   font-weight : bold;
+   color:gray;
+}
+
+.home-ranking-sub-title{
+   font-family: Open Sans,sans-serif;
+   font-size: 14px;
+   color:gray;
+   font-weight : bold;
+}
+
+
+.mybutton:hover{
+   background-color:#6db3ff;
+   color:white;
+ }
+
+ .mybutton.active{
+   background-color:#6db3ff;
+   color:white;
+ }
+
+ .mybutton.current{
+  background-color:red;
+  color:white;
+}
+
+.home-ranking-player-name{
+   font-family: Open Sans,sans-serif;
+    font-size: 14px;
+}
+
+.player-rating-number{
+   font-family: Open Sans,sans-serif;
+    font-size:20px; 
+    font-weight:normal;
+    color:#6db3ff;
+    padding:0px;
+}
+
+.rank-table td {
+   border:none;
+   padding:4px;
+   padding-left: 10px;
+   vertical-align: middle;
+   font-family: Open Sans,sans-serif;
+   font-size:10px;
+   font-weight: 500;
+ }
+
+ .rank-table th{
+   padding:4px;
+   padding-left: 10px;
+   color:white; 
+   background-color:#E4032E;
+   border:none;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px; 
+   vertical-align: middle;
+   font-family: Open Sans,sans-serif;
+   font-size:10px;
+   font-weight: 600;
+ }
+
+ .scrolling-wrapper {
+   overflow-x: auto;
+   overflow-y: hidden;
+   white-space: nowrap;
+ }
+
+ .card-for-scroll{
+   display: inline-block;
+   height:80px;
+   margin-right:4px;
+   border-radius: 4px;
+   scroll-behavior: smooth;
+   -webkit-overflow-scrolling:touch;
+ }
+
+ .card-contetns{
+    white-space: nowrap;
+ }
+
+ .badge{
+   padding: 6px;
+   height:22px;
+   width:22px;
+   border-radius: 50%;
+   border: 1px solid;
+   font-family: Helvetica, Arial Black, sans;
+   font-size: 10px;
+   color : gray;
+   background-color: transparent;
+   margin-right: 4px;
+ }
+ 
+ .uppercase{
+   text-transform: uppercase;
+   padding-bottom: 10px;
+   padding-top: 4px;
+   /* font-family: Open Sans,sans-serif; */
+   font-family:Open Sans,sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+ }
+
+ .commentry-text{
+   font-family:Open Sans,sans-serif;
+   white-space: normal;
+   font-size : 11px;
+   font-weight: normal;
+   }
+
+
+ .other-labels{
+   font-family:Open Sans,sans-serif;
+   font-size : 12px;
+   font-weight: 600;
+   text-transform: uppercase;
+   padding-right:2px; 
+ }
+
+ .batsman-bowler-name{
+   font-family:Open Sans,sans-serif;
+   font-size : 10px;
+   font-weight: 500;
+   text-transform: uppercase;
+   padding-left:5px; 
+ }
+
+ .details{
+   font-family:Open Sans,sans-serif;
+   font-size : 10px;
+   font-weight:500; 
+   color:#E4032E;
+   padding-left:25px; 
+
+ }
+
+ .numbers{
+   font-family:Open Sans,sans-serif;
+   font-size : 10px;
+   font-weight:500; 
+   color:#E4032E;
+   padding-left:5px; 
+
+ }
+
+ .short-detail{
+   font-family:Open Sans,sans-serif;
+   font-size : 9px;
+   font-weight:500; 
+   color:gray;
+   padding-left:25px; 
+
+ }
+
+ 

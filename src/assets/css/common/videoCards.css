@@ -1,0 +1,269 @@
+/* /* .small-card{
+   /* height:100px; 
+
+}  */
+
+.hr-line{
+   padding:0px;
+   margin-top:0;
+   margin-bottom:5px;
+}
+
+.cards-big-videocard-heading{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;;
+   font-size: 16px;
+   font-weight:600;
+}
+
+.cards-top-heading-black{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;;
+   font-size: 14px;
+   font-weight: 600;
+   padding-top:10px;
+   padding-left: 8px;
+}   
+
+.cardsmall-col-heading-black{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;
+   font-size: 16px;
+   font-weight: 600;
+}   
+
+.cardsmall-col-heading-gray{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;;
+   font-size: 16px;
+   color: gray;
+   font-weight: 600;
+}   
+
+.cardsmall-col-sub-heading-gray{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;;
+   font-size: 12px;
+   font-weight: 600;
+   color: gray;
+   margin-bottom: 0px;
+   padding-bottom: 1px;
+}   
+
+.cardsmall-col-sub-heading-black{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;;
+   font-size: 12px;
+   font-weight: 600;
+   color: black;
+   margin-bottom: 0px;
+   padding-bottom: 1px;
+}   
+
+
+.cardsmall-col-sub-heading-gray-xs{
+   font-family: Helvetica, Arial, sans-serif, Open Sans;
+   font-size: 10px;
+   font-weight: 600;
+   color: gray;
+   margin-bottom: 2px; 
+}   
+
+.cardsmall-col-bodytext-black{
+   font-family:  Open Sans, Arial;
+   font-size: 12px;
+   margin-bottom: 2px; 
+   white-space: pre-line;
+}   
+
+.card-xsmall-col-bodytext-black{
+   font-family:  Open Sans, Arial;
+   font-size: 11px;
+   font-weight: 400;
+   margin-bottom: 2px; 
+   white-space: pre-line;
+}   
+
+.card-image-small{
+   position: relative;
+   width:100%;
+   /* height:100px; */
+   object-fit: fill;
+}   
+
+.card-image-xs{
+   position: relative; 
+   width:100%;
+   /* object-fit: fill;  */
+}   
+
+.card-col-for-image{
+   height:100%;
+   padding:0px; 
+}
+
+.card-col-for-image .play-button-small{
+   top:50%; left:50%;
+   position: absolute;
+     /* transform: translate(-50%,-50%); */
+   margin-top: -19px;
+   margin-left: -19px;
+   opacity: 0.7;
+   filter: alpha(opacity=50);
+    
+}
+
+.card-col-for-image .play-button-for-vertical{
+   top:12.5%; left:50%;
+   position: absolute;
+     /* transform: translate(-50%,-50%); */
+   margin-top:  9.5px;
+   margin-left: -19px;
+   opacity: 0.7;
+   filter: alpha(opacity=50);
+    
+}
+
+.social-icons{
+    padding:5px;
+    height:15px;
+    width:15px;
+}
+
+.card-col-for-image .play-button-small-xs{
+   top:50%; left:50%;
+   position: absolute;
+     /* transform: translate(-50%,-50%); */
+   margin-top: -15px;
+   margin-left: -15px;
+   opacity: 0.7;
+   filter: alpha(opacity=50);
+}
+
+
+.card-col-for-text-xs{
+   padding-left:5px;
+   padding-right:2px; 
+}
+
+.card-xs-col-for-text{
+   padding-left:10px;
+   padding-right:10px;
+   text-overflow: ellipsis;
+}
+
+.card-col-for-text{
+   padding-left:10px;
+   padding-right:10px;
+   height:100px;
+   text-overflow: ellipsis;
+}
+
+
+.video-card-image-size-large{
+   width:100%;
+   height:auto;
+   padding-bottom: 10px;
+   position: relative;
+}   
+ .video-card-image-size-large img{
+     width: 100%
+ }    
+
+
+ /* ======================================================= */
+
+
+.right-div-card-70p{
+   position: relative;
+   width:70%;
+   height:100px;
+   float:right;
+}   
+
+.left-card-div-30p img{
+   width :100%  
+}   
+
+.play-button-small-left{
+    position: absolute;
+    z-index:2;
+    right: calc(50% - 19.5px);
+    top: calc(50px - 19.5px);
+}
+
+ /* VIDEO CARDS PICTURE LEFT SIDE AND TEXT RIGHT SIDE */
+.video-card-righttside-size-small {
+    width:68%;
+    float:right;
+ }   
+
+ 
+ /* VIDEO CARDS IMAGE RIGHT AND TEXT LEFT SIDE */
+ .right-div-30p{
+     position: relative;
+     width :30%;
+     height:100px; 
+     float :right;
+}     
+
+.right-div-30p img{
+    height : 100%;
+}    
+
+.play-button-small-right{
+   position: absolute;
+   left : calc(50% - 19.5px);
+   top  : calc(50px -  19.5px);
+   z-index: 2;
+}   
+
+.video-card-textleft-size-small {
+    width:68%;
+    float:left;
+}   
+
+/* ------------------------------------------------------- */  
+
+ .video-card-righttside-title-small{
+    font-family: Open Sans,sans-serif;
+    font-size:16px;
+    font-weight:600;
+ }   
+
+ .video-card-righttside-sub-title-small{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:gray;
+ }   
+
+ 
+ .video-card-title-large{
+    font-family: Open Sans,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+ }   
+  
+
+ .tweets-card {
+    font-family: Open Sans,sans-serif;
+    font-size: 12px;
+    border-radius:5px;
+ }   
+
+ .news-list {
+    font-family: Open Sans,sans-serif;
+    font-size: 16px;
+    vertical-align: middle;
+ }   
+
+/* ------------------VIDEO CARd WORK -------------------- */  
+ .play-button{
+    position: absolute;
+    z-index:2;
+    left: calc(50% - 29px);
+    top: calc(50% - 29px);
+}    
+
+
+/* 
+.video-card-image-size-large .play-button img{
+  width:100%;
+} */
+
+/* ------------------------------------------------------- */ 

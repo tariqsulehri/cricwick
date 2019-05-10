@@ -1,0 +1,48 @@
+.card{
+    box-shadow: 0 4 8px 0px rgb(0, 0, 0, 0, 0.2);
+    border-radius: 0;
+    font-family:sans-serif;
+    font-size: 10px;
+    text-align: left;
+    padding-left : 0;  
+}
+
+.list-group-item{
+    padding:6px;
+
+}
+
+.home-right-tweets-title {
+    font-family: Open Sans,sans-serif;
+    text-decoration:  none;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    float :right;
+  }
+
+  a:link{
+    text-decoration:  none;
+  } 
+   
+ .home-right-panel-videos-image{
+   width:40%;
+   float: left;
+   padding:0;
+  }
+
+ .home-right-panel-videos-text{
+    width:60%;
+    font-family: Open Sans,sans-serif;
+    font-size :12px;
+    float:right;
+    padding:0; 
+ }
+
+ .home-right-panel-matchdesc-text{
+    font-family: Open Sans,sans-serif;
+    font-size :12px;
+    color: gray;
+    font-weight: normal;
+    padding:0; 
+ }

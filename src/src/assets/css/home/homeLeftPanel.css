@@ -1,0 +1,29 @@
+.leftcard{
+    font-family: Open Sans,sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+.list-group{
+    color:black;
+}
+
+.list-group-item{
+     font-family: Open Sans,sans-serif;
+     font-size: 11px;
+     padding: 1px;
+     list-style: inside;
+     border-left: none;
+     border-right: none;
+}
+
+/* .link {
+    text-decoration: none;
+} */
+
+.card-header{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight:600;
+}
+

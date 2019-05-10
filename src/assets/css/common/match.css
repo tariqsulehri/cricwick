@@ -1,0 +1,60 @@
+.match-bigcard-status-live{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ee1d23;
+    float: right;
+}
+
+.match-bigcard-status-normal{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: Gray;
+    float:right
+  }
+
+
+  .match-bigcard-title{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:black;
+  }
+
+  .match-bigcard-footer-text{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:black;
+    text-align: center;
+  }
+
+  .match-bigcard-subtitle{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:gray;
+  }
+
+  .match-bigcard-teams-flags{
+    height:30px;
+    width:30px;
+    margin-bottom:6px;
+  }
+
+  .match-bigcard-teams-shortname{
+    font-family: Open Sans,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 8px;
+    color:black;
+  }
+
+  .match-bigcard-teams-score {
+    font-family: Open Sans,sans-serif;
+    font-size:14px;
+    font-weight: 600;
+    color: black;
+    float :  right; 
+  }

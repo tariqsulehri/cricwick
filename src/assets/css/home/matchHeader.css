@@ -1,0 +1,101 @@
+/* .container{
+    flex-direction: column;
+    align-items: stretch;
+ }   */
+
+ /* .scrolling-wrapper {
+   overflow-x:scroll;
+   overflow-y: hidden;
+   white-space: nowrap;
+ } */
+
+ .scrolling-wrapper {
+   overflow-x: auto;
+   overflow-y: hidden;
+   white-space: nowrap;
+ }
+
+ .series-down-buttons{
+   justify-content:space-around;
+ }
+
+ .card-header-scroll{
+   display: inline-block;
+   white-space:nowrap;
+   overflow: hidden;
+   width:200px;
+   max-height: 100px; 
+   margin-right:2px;
+   border-radius:6px;
+   vertical-align: top;
+   scroll-behavior: smooth;
+   -webkit-overflow-scrolling:touch;
+ }
+
+ .header-card-contents{
+    padding:0px;
+    word-wrap: break-word;
+ }
+
+.header-flag{
+   width:25x;
+   height:25px;
+   padding:0;
+   vertical-align: middle;
+   padding-right: 2px;
+   padding-bottom: 1px;
+   
+}
+
+.header-teams-shortname {
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   font-weight:600;
+   vertical-align: middle;
+   color: gray;
+   padding-left:4px;
+}
+
+ .header-teams-score {
+   font-family: Open Sans,sans-serif;
+   font-size:14px;
+   font-weight:600;
+   color: gray;
+   margin-top: 2px;
+   float :  right;
+ }
+
+.header-match-status-live{
+   font-family: Open Sans,sans-serif;
+   font-size:11px;
+   font-weight: 600;   
+   color: red ;
+   padding-left:0px;
+ }
+
+.header-match-status-normal-gray{
+   font-family: Open Sans,sans-serif;
+   font-size:10px;
+   font-weight:600;
+   color: gray;
+   text-align: right;
+   padding-left:0px;
+ }
+ 
+ .header-match-status-normal-black{
+  font-family: Open Sans,sans-serif;
+  font-size:10px;
+  color: black;
+  text-align: right;
+  padding-left:0px;
+}
+
+
+.header-match-last-inning{
+  font-family: Open Sans,sans-serif;
+  font-size:10px;
+  color: black;
+  text-align: right;
+  padding-left:0px;
+}
+ 

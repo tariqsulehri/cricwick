@@ -1,0 +1,41 @@
+.short-menu-buttons .btn-default{
+   background-color: white;
+   font-family: Open Sans,sans-serif;
+   font-size: 16px;
+   font-weight:600;
+   text-align: left; 
+   padding-left:0;
+   margin-right: 20px;
+   border-radius: 0;
+}
+
+/* .btn-default:hover,
+.btn-default:active,
+.btn-default:visited,
+.btn-default:focus {
+    border-bottom-color:red;
+    outline: none;
+    box-shadow: none
+} */
+
+.short-menu-buttons .btn-default:hover,
+.short-menu-buttons .btn-default:visited,
+.short-menu-buttons .btn-default:active,
+.short-menu-buttons .btn-default:focus {
+    border-bottom-color:#dc3545;
+    outline: none;
+    box-shadow: none
+}
+
+.menu-buttons-title-heading{
+  font-family: Open Sans,sans-serif;
+  color:#dc3545;
+  font-size: 16px;
+  font-weight:600;
+}
+
+.short-menu-active {
+  border-bottom-color:#dc3545;
+  outline: none;
+  box-shadow: none
+}

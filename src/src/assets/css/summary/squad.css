@@ -1,0 +1,94 @@
+.player-image-suqad {
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    padding: 0px;
+    /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.bowler-title-image {
+   width:30px;
+   height:30px;
+   border-radius: 50%;
+   padding: 0px;
+   /* box-shadow: 5px 5px 5px #ccc; */
+}
+
+.mycard {
+    border-radius: 6px; 
+    height:180px;
+    align-content: center;
+    box-shadow: 1px  2px 5px #ccc;
+    border:none;
+}
+
+.home-ranking-main-title{
+    font-family: Open Sans,sans-serif;
+    font-size: 18px;
+    font-weight : bold;
+ }
+
+ .home-ranking-main-title-dynamic{
+    font-family: Open Sans,sans-serif;
+    font-size: 18px;
+    font-weight : bold;
+    color:gray;
+ }
+
+ .home-ranking-sub-title{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    color:gray;
+    font-weight : bold;
+ }
+ 
+ .mybutton{
+   display: inline-block;  
+   color: darkgray;
+   width:100px;
+   background-color: #dfe2eb;
+   font-size : 10px;
+   border-top-right-radius: 12px; 
+   margin :0px;
+ }
+
+ .mybutton:hover{
+    background-color:#6db3ff;
+    color:white;
+  }
+
+  .mybutton.active{
+    background-color:#6db3ff;
+    color:white;
+  }
+
+  .mybutton.current{
+   background-color:red;
+   color:white;
+ }
+
+ .player-name{
+    font-family: Open Sans,sans-serif;
+     font-size: 12px;
+     font-weight:700;
+ }
+ .player-role{
+    font-family: Open Sans,sans-serif;
+     font-size: 10px;
+     color:#808080;
+ }
+   
+ .captain{
+    font-family: Open Sans,sans-serif;
+    font-size: 12px;
+    color: #E4032E; 
+    font-weight:700;
+ } 
+ 
+     .player-rating-number{
+    font-family: Open Sans,sans-serif;
+     font-size:20px; 
+     font-weight:normal;
+     color:#6db3ff;
+     padding:0px;
+ }
